@@ -1,6 +1,6 @@
 {
   "apps": [{
-    "name": "discord_bot.py",
+    "name": "discord_bot",
     "script": "index.py",
     "interpreter": "python",
     "interpreter_args": "-u"
