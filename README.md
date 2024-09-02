@@ -1,8 +1,5 @@
-<p align="center">
-  <img alt="discord_bot.py" src="https://i.alexflipnote.dev/MiFAeTE.png" width="750px">
-</p>
 
-Do you need more help? Visit my server here: **https://discord.gg/AlexFlipnote** 🍺
+Do you need more help? Visit my server here: **https://discord.gg/FdNkRqXWjD** 🍺
 
 ## Requirements
 - Python 3.10 and up - https://www.python.org/downloads/
@@ -34,11 +31,6 @@ Q: I don't see my bot on my server!<br>
 A: Invite it by using this URL: https://discordapp.com/oauth2/authorize?client_id=CLIENT_ID&scope=bot<br>
 Remember to replace **CLIENT_ID** with your bot client ID
 
-Q: There aren't that many commands here...<br>
-A: Yes, I will only provide a few commands to get you started, maybe adding more later.
-
-Q: Why the beer with the discord logo?<br>
-A: Because the framework is made so simple that even a drunk guy can set it up.
 
 
 # Optional tools
