@@ -2,7 +2,7 @@
 
 :MENU
 cls
-echo Welcome to AlexFlipnote/discord_bot.py
+echo Welcome to DevMarianStack/DiscordBotOpenSrc
 echo    1 Start the bot
 echo    2 Install dependencies
 echo    3 Exit menu
